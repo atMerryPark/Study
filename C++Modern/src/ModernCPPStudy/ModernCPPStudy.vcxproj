@@ -19,7 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="override\override_01.cpp" />
+    <ClCompile Include="keywords\override_01.cpp" />
+    <ClCompile Include="keywords\using_01.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{C8A8CA9C-0D3C-4FC9-9EB4-F77CFBAB76E7}</ProjectGuid>
