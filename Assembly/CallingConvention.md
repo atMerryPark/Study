@@ -128,4 +128,3 @@ Stack Frame을 사용하는 함수들 간의 대화 방식 ( 스택에 데이터
 
 * [Guide to x86 Assembly - Calling Convention](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 * [msdn.microsoft - Calling Conventions](https://msdn.microsoft.com/en-us/library/k2b2ssfy.aspx)
-
